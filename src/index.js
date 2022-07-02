@@ -1,4 +1,4 @@
 import { Hello } from "./hello";
 
-const taro = new Hello("taro");
-taro.greet();
+const jiro = new Hello("Jiro");
+jiro.greet();

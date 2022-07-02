@@ -1,1 +1,1 @@
-(()=>{"use strict";new class{name;constructor(e){this.name=e}greet(){console.log(`Hello, ${this.name}!`)}}("taro").greet()})();
+(()=>{"use strict";new class{name;constructor(e){this.name=e}greet(){console.log(`Hello, ${this.name}!`)}}("Jiro").greet()})();
